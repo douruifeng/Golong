@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Print(runtime.GOARCH)
-	fmt.Print("hello")
+	fmt.Print("hello word    ")
 }
